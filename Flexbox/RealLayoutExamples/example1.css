@@ -1,5 +1,6 @@
 .form-row {
   padding: 10px 0;
+  display: flex;
 }
 
 .form-row label {
@@ -7,4 +8,5 @@
 }
 
 .form-row input {
+  flex: 1;
 }
