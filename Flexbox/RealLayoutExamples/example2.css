@@ -5,4 +5,5 @@
   margin: 40px auto 0 auto;
   line-height: 1.65;
   padding: 20px 50px;
+  display: flex;
 }
