@@ -8,14 +8,6 @@
   display: flex;
 }
 
-.main-column {
-  flex: 1;
-}
-
-.sidebar-one {
-  flex: 1;
-}
-
-.sidebar-two {
+.column-layout > * {
   flex: 1;
 }
