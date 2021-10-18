@@ -14,4 +14,13 @@
 
 .main-column {
   flex: 3;
+  order: 2;
+}
+
+.sidebar-one {
+  order: 1;
+}
+
+.sidebar-two {
+  order: 3;
 }
