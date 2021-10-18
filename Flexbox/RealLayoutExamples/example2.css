@@ -7,3 +7,15 @@
   padding: 20px 50px;
   display: flex;
 }
+
+.main-column {
+  flex: 1;
+}
+
+.sidebar-one {
+  flex: 1;
+}
+
+.sidebar-two {
+  flex: 1;
+}
