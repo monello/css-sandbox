@@ -11,3 +11,7 @@
 .column-layout > * {
   flex: 1;
 }
+
+.main-column {
+  flex: 2;
+}
